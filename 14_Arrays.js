@@ -32,14 +32,3 @@ console.log(myarr.indexOf(1));
 const newarr=myarr.join()
 console.log(newarr)
 console.log(typeof(newarr))
-
-
-
-//shallow copy
-
-
-
-
-
-
-//deep copy
