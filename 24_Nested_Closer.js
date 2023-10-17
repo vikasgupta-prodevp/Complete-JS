@@ -1,13 +1,13 @@
-// function one() {
-//     const username = "Vikas"
-//     function two() {
-//         const website = "Youtube"
-//         console.log(username)
-//     }
-//     // console.log(website)
-//     two()
-// }
-// one()
+function one() {
+    const username = "Vikas"
+    function two() {
+        const website = "Youtube"
+        console.log(username)
+    }
+    // console.log(website)
+    two()
+}
+one()
 
 
 
@@ -17,8 +17,8 @@ if (true) {
         const website = "Youtube"
         console.log(username +" "+ website)
     }
-    // console.log(website)
+    console.log(website)
 }
-// console.log(username)
+console.log(username)
 
 //******************** */
